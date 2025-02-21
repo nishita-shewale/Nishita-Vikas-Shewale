@@ -17,8 +17,7 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 3. Data Quality Engineern @ Transunion CIBIL, Mumbai (Mar 2019 - Jul 2021)
 4. Data Engineer @ Accenture, Mumbai (Apr 2016 - Jan 2019)
 
-## **Connect with me on** : [[![LinkedIn Profile](https://github.com/your-username/your-repo/blob/main/assets/linkedin-profile.jpg)](https://www.linkedin.com/in/nishitashewale/)
-)
+## **Connect with me on** : [![LinkedIn Profile](https://github.com/your-username/your-repo/blob/main/assets/linkedin-profile.jpg)](https://www.linkedin.com/in/nishitashewale/)
 
 ## Relevant Project Repositories:
 
