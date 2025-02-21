@@ -28,45 +28,60 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 ## Technical Skills
 
-**Languages :**
+### **Languages & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0066A1?style=for-the-badge&logo=sas&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kusto Query Language](https://img.shields.io/badge/Kusto%20Query%20Language-5D3FD3?style=for-the-badge&logo=microsoft&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### **Databases & Big Data:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-EE5C2C?style=for-the-badge&logo=teradata&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 
-**Libraries & Tools :**
+### **Business Intelligence & ETL Tools:**
+![Ab Initio](https://img.shields.io/badge/Ab%20Initio-000000?style=for-the-badge)
+![Informatica](https://img.shields.io/badge/Informatica-FF4500?style=for-the-badge&logo=informaticacloud&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF5025?style=for-the-badge&logo=talend&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=for-the-badge&logo=alteryx&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Diagrams](https://img.shields.io/badge/Diagrams-000000?style=for-the-badge&logo=diagrams&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-DA5B38?style=for-the-badge&logo=python&logoColor=white)
+### **Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Databases :**
+### **Data Processing & Streaming:**
+![ETL](https://img.shields.io/badge/ETL-FF8800?style=for-the-badge)
+![ELT](https://img.shields.io/badge/ELT-FF4500?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AutoSys](https://img.shields.io/badge/AutoSys-00457C?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-![Pinecone](https://img.shields.io/badge/Pinecone-5D3FD3?style=for-the-badge&logo=pinecone&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-2D7BFF?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL Server DB](https://img.shields.io/badge/SQL%20Server%20DB-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL DB](https://img.shields.io/badge/MySQL%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Visualization and Analytics:**
+![DBT](https://img.shields.io/badge/DBT-FF6347?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=for-the-badge&logo=alteryx&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF5025?style=for-the-badge&logo=talend&logoColor=white)
 
-**Visualization and Analytics :**
+### **Other Tools:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Retrieval Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-FFD700?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C80B3?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4C4C9A?style=for-the-badge)
+![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-![DBT](https://img.shields.io/badge/DBT-FF6347?style=for-the-badge&logo=dbt&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=for-the-badge&logo=alteryx&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF5025?style=for-the-badge&logo=talend&logoColor=white) 
-
-**Cloud Platforms :**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white)  
-
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![GCP Buckets](https://img.shields.io/badge/GCP%20Buckets-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![GCP Data Fusion](https://img.shields.io/badge/GCP%20Data%20Fusion-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
-
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white) 
-
-**Functional Skills :**
-
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0099FF?style=for-the-badge) ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-6C0082?style=for-the-badge) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003366?style=for-the-badge) ![Data Pipelining](https://img.shields.io/badge/Data%20Pipelining-FFD700?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-FF8800?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00BFAE?style=for-the-badge) ![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-1D8E6A?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-56A9E4?style=for-the-badge) ![Data Profiling](https://img.shields.io/badge/Data%20Profiling-6200EA?style=for-the-badge) ![Business Intelligence Reports](https://img.shields.io/badge/Business%20Intelligence%20Reports-00C8E8?style=for-the-badge)
-
-**Other Tools :**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-
-![RAG Models](https://img.shields.io/badge/Retrieval%20Augmented%20Generation%20(RAG)-FFD700?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-2C80B3?style=for-the-badge&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-4C4C9A?style=for-the-badge) 
-
-![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Freshservice ITSM](https://img.shields.io/badge/Freshservice%20ITSM-29B0D0?style=for-the-badge&logo=freshservice&logoColor=white)
-
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
