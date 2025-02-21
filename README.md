@@ -20,11 +20,12 @@
 ---
 
 ## 🏢 Work Experience:
-- **Senior Data Engineer @ Amazon**
-- **Business Intelligence Engineer @ Microsoft**
-- **Data Analyst @ Deloitte**
-1. Business Intelligence Engineer Co-op @ Amazon Robotics, Boston (Jul 2024 - Dec 2024)
-2. Data Engineer @ JP Morgan Chase & Co. , Mumbai, India (
+- **Business Intelligence Engineer @ Amazon Robotics**
+- **Data Engineer @ JP Morgan Chase & Co.**
+- **Data Quality Engineer @ Transunion CIBIL**
+1. Business Intelligence Engineer Co-op @ Amazon Robotics (Jul 2024 - Dec 2024)
+2. Data Engineer @ JP Morgan Chase & Co. (Jul 2021 - Aug 2023)
+3. Data Quality Engineer @ Transunion CIBIL (Mar 2019 - Jul 2021)
 
 ---
 
