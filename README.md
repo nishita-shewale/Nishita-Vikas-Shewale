@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=650&lines=Hello,+I'm+Nishita+Shewale!+%F0%9F%91%8B;Senior+Data+Engineer+%7C+BI+%7C+Analytics;7%2B+Years+of+Experience+in+Data+%26+Cloud;Transforming+Data+into+Actionable+Insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=650&lines=Hello,+I'm+Nishita+Shewale!+%F0%9F%91%8B;Data+Engineer+%7C+BI+%7C+Analytics;7%2B+Years+of+Experience+in+Data+%26+Cloud;Transforming+Data+into+Actionable+Insights!" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,9 +20,6 @@
 ---
 
 ## 🏢 Work Experience:
-- **Business Intelligence Engineer @ Amazon Robotics**
-- **Data Engineer @ JP Morgan Chase & Co.**
-- **Data Quality Engineer @ Transunion CIBIL**
 1. Business Intelligence Engineer Co-op @ Amazon Robotics (Jul 2024 - Dec 2024)
 2. Data Engineer @ JP Morgan Chase & Co. (Jul 2021 - Aug 2023)
 3. Data Quality Engineer @ Transunion CIBIL (Mar 2019 - Jul 2021)
