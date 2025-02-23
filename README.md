@@ -1,9 +1,10 @@
 # Hi👋,I am Nishita Shewale
 
 
-I'm currently working as a **Business Intelligence Engineer on a co-op at Amazon Robotics**. My professional path is strongly focused on achieving success in the fields of Data Engineering & Analytics, motivated by a strong desire to use data to solve challenging problems and uncover game-changing insights.
+🎯 Data Engineer | Business Intelligence Expert | Problem Solver📍 Currently Based in the U.S. | 7+ Years of Experience
 
-I take great satisfaction in being a composed, self-assured person who enjoys developing deep relationships with people from many backgrounds. I possess excellent communication skills and ability to precisely express my thought process. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing project objectives.
+With a strong foundation in data engineering, analytics, and business intelligence, I specialize in transforming raw data into meaningful insights. Having worked across various industries, I bring expertise in designing scalable data solutions, optimizing ETL pipelines, and enabling data-driven decision-making.
+I thrive in cross-functional collaborations, ensuring seamless coordination between teams. My strong communication skills and ability to articulate technical concepts effectively make me an asset in any data-driven environment.
 
 ## **Background :**
 
